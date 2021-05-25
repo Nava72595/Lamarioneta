@@ -1,2 +1,0 @@
-# Lamarione
-{ exe }
